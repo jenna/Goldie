@@ -1,10 +1,10 @@
 require 'compass/import-once/activate'
-http_path = "/"
-css_dir = "/skin/frontend/rwd/mytheme/css"
-sass_dir = "/skin/frontend/rwd/mytheme/scss"
-images_dir = "/skin/frontend/rwd/mytheme/images"
-javascripts_dir = "/skin/frontend/rwd/mytheme/js"
-fonts_dir = "/skin/frontend/rwd/mytheme/fonts"
+http_path = "/skin/frontend/rwd/default/"
+css_dir = "/skin/frontend/rwd/default/css"
+sass_dir = "/skin/frontend/rwd/default/scss"
+images_dir = "/skin/frontend/rwd/default/images"
+javascripts_dir = "/skin/frontend/rwd/default/js"
+fonts_dir = "/skin/frontend/rwd/default/fonts"
  
 add_import_path "./skin/frontend/rwd/default/scss"
  
